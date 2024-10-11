@@ -31,9 +31,10 @@ Andromeda is a Web Based Minecraft Server Management Software.
 
 ## Andromeda
 
-<img width=128 src=https://github.com/user-attachments/assets/ca2d7387-93b5-4863-ada6-a0bc10a6d54f alt="Andromeda Logo" title="Andromeda Logo">
+<img width=128 src=https://github.com/user-attachments/assets/7e3fe799-4f9b-49d1-af8c-a8f4fa1abdb8 alt="Andromeda Logo" title="Andromeda Logo">
 
-Andromeda is the software as a bundle.
+Andromeda is the software as a bundle.  
+(Yes the logo got changed, because we were concerned that the old logo looked like a phallus) 
 
 ## [Andromeda Stall](https://github.com/andromeda-mc/stall)
 
