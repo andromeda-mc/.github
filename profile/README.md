@@ -4,17 +4,17 @@ Andromeda is a Web Based Minecraft Server Management Software.
 
 ## Planned features
 
-- Install and delete servers
-- Start and stop servers
-- Support these softwares:
+- [ ] Install and delete servers
+- [X] Start and stop servers
+- [X] Support these softwares:
   - Vanilla
   - Fabric
   - Forge
   - Paper
-- Configure minecraft settings
-- View logs
-- Use the console
-- Configureable guest access:
+- [ ] Configure minecraft settings
+- [ ] View logs
+- [ ] Use the console
+- [ ] Configureable guest access:
   - Configurable permissions, like:
     - Start a server
     - Stop a server
@@ -23,9 +23,9 @@ Andromeda is a Web Based Minecraft Server Management Software.
     
 ### Not so important planned features
 
-- Upload and download server files
-- Install plugins/mods
-- Install modspacks
+- [ ] Upload and download server files
+- [ ] Install plugins/mods
+- [ ] Install modspacks
 
 # Overview of the software parts
 
