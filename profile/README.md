@@ -13,7 +13,7 @@ Andromeda is a Web Based Minecraft Server Management Software.
   - Paper
 - [ ] Configure minecraft settings
 - [ ] View logs
-- [ ] Use the console
+- [X] Use the console
 - [ ] Configureable guest access:
   - Configurable permissions, like:
     - Start a server
