@@ -24,9 +24,7 @@ Andromeda is a Web Based Minecraft Server Management Software.
 ### Not so important planned features
 
 - [ ] Upload and download server files
-- [ ] Install plugins/mods
-  - [X] Mods
-  - [ ] Plugins
+- [X] Install plugins/mods
 - [ ] Install modspacks
 
 # Overview of the software parts
